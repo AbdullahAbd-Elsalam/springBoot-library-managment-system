@@ -82,7 +82,7 @@ spring:
 ### Read all patrons
 4. get all patrons  API
 + localhost:8080/patrons
-![GitHub Logo](/images/getAllBook.png)
+![GitHub Logo](/images/getAllPatrons.png)
 
 ## IDE
 
